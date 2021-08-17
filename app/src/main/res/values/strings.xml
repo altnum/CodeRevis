@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeRevis</string>
+
+    <string-array name="kinds">
+        <item>Малка неоформена</item>
+        <item>Голяма неоформена</item>
+        <item>Кокал</item>
+    </string-array>
+</resources>
